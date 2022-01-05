@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="positive_add">Add</string>
+    <string name="negative_cancel">Cancel</string>
+    <string name="positive">Yes</string>
+    <string name="negative">No</string>
+</resources>
